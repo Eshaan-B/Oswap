@@ -1,3 +1,3 @@
 # Oswap
 A program that swaps data of two faces.
-It still has certain __issues__
+It still has some issues though
