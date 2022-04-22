@@ -1,1 +1,1 @@
-secretKeys = "TNEFR{F0z_X0x_Gj3_mQ4X!!}";
+secretKey = "TNAFR{C0z_X0t_Gj3_jQ4X!}";
