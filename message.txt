@@ -1,1 +1,3 @@
 secretKey = "TNAFR{C0z_X0t_Gj3_jQ4X!}";
+
+// Hahah I bet you can't crack this encryption. You'll definetly have issues.
