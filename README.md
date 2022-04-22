@@ -1,3 +1,2 @@
 # Oswap
-A program that swaps data of two faces.
-It still has some issues though
+A simple C program made to swap data of two faces.
